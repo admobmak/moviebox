@@ -16,6 +16,13 @@ var jwDefaults = {
    "displaytitle": true,
    "height": 260,
    "key": "JNaXLBv7ynNwU/niepg8F9l3KIWxyBAl/1I7rpPyHzsYumf0xxk2yVt1Kz29IK/X",
+   "logo": {
+    "file": "https://blogger.googleusercontent.com/img/a/AVvXsEg59mkEuGH_yksAFFb5dXJdE1gwxemTvehRXJ53Pby6sHkGc7dw1wK42JpJKi5t9dpWXeFOo1nO3ezUEZpM3ctefgWJL53yrWIVw9gmXazEMMlzGd_OHHhkLx_c6_VkFSE52Dm5n_H_V3PGTCh7fY79w8C8oYu7vlVA1cXmWcsRyZFyheIk7mCmAtRL=s1600",
+    link: "/",
+    "hide": false,
+    "margin": "10",
+    "position": "top-right"
+  },
    "mute": true,
    "ph": 1,
    "pid": "IDzF9Zmk",
